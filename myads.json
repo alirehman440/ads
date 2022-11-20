@@ -3,18 +3,18 @@
     "ads_click":2,
     "show_nativeads": 4,
     "onesignalappid": "dc78b7c8-6122-43f3-b04e-18345b46fc2d",
-    "GBanner": "ca-app-pub-3940256099942544/63009781111",
-    "GInterstitial": "ca-app-pub-3940256099942544/1033173712",
-    "GInterstitial_Video": "ca-app-pub-3940256099942544/8691691433",
-    "GRewarded": "ca-app-pub-3940256099942544/5224354917",
-    "GRewarded_Interstitial": "ca-app-pub-3940256099942544/5354046379",
-    "Gnative": "ca-app-pub-3940256099942544/2247696110",
+    "GBanner": "ca-app-pub-2972720642664088/5758385337",
+    "GInterstitial": "ca-app-pub-2972720642664088/2449695717",
+    "GInterstitial_Video": "ca-app-pub-2972720642664088/8608404797",
+    "GRewarded": "ca-app-pub-2972720642664088/4992098579",
+    "GRewarded_Interstitial": "ca-app-pub-2972720642664088/3870588599",
+    "Gnative": "ca-app-pub-2972720642664088/4477588091",
 
-    "GIosBanner": "ca-app-pub-3940256099942544/6300978111",
-    "GIosInterstitial": "ca-app-pub-3940256099942544/1033173712",
-    "GIosInterstitial_Video": "ca-app-pub-3940256099942544/8691691433",
-    "GIosRewarded": "ca-app-pub-3940256099942544/5224354917",
-    "GIosRewarded_Interstitial": "ca-app-pub-3940256099942544/5354046379",
-    "GIosnative": "ca-app-pub-3940256099942544/2247696110"
+    "GIosBanner": " ca-app-pub-2972720642664088/5407526389",
+    "GIosInterstitial": "ca-app-pub-2972720642664088/6851975159",
+    "GIosInterstitial_Video": "ca-app-pub-2972720642664088/4309572290",
+    "GIosRewarded": "ca-app-pub-2972720642664088/1491837266",
+    "GIosRewarded_Interstitial": "ca-app-pub-2972720642664088/4118000603",
+    "GIosnative": "ca-app-pub-2972720642664088/2613347240"
    
 }
